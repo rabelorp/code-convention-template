@@ -11,7 +11,7 @@
     "src/**/*.ts": [
       "prettier --write --ignore-unknown",
       "eslint --fix",
-      "git add"
+      "git add ."
     ]
   },
   "author": "",
